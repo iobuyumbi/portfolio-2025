@@ -12,7 +12,8 @@ This is my portfolio showcasing my skills, projects, and professional background
 - CSS
 
 ## Live Demo
-You can view my portfolio live at: [Portfolio 2025](https://iobuyumbi.github.io/portfolio-2025)
+You can view my portfolio live at:[Portfolio 2025](https://iobuyumbi-portfolio-2025.netlify.app/)
+Github Repo: [Portfolio 2025](https://iobuyumbi.github.io/portfolio-2025)
 
 ## Contact
 Email: [iobuyumbi@gmail.com](mailto:iobuyumbi@gmail.com)
